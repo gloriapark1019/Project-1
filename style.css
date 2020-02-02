@@ -1,0 +1,52 @@
+body {
+    background-color: floralwhite;
+}
+
+h1 {
+    display: block;
+    text-align: center;
+    color: #000000;
+}
+
+h2 {
+    display: block;
+    text-align: center;
+    color: brown;
+}
+
+p {
+    display: block;
+    text-align: center;
+}
+
+.topnav {
+    overflow: hidden;
+    background-color: rosybrown;
+}
+
+.topnav a {
+    float: left;
+    width: 33.33%;
+    color: darkslateblue;   
+    text-align: center;
+    font-size: 17px;
+  }
+
+table {
+    border-collapse: collapse;
+    margin: 0 auto;
+    width: 800px;
+}
+
+table, th, td {
+    border: 1px solid dimgray;
+}
+
+td {
+    padding: 10px;
+}
+
+.code {
+    font-family: monospace;
+    background-color: beige;
+}
